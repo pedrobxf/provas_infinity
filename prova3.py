@@ -10,5 +10,5 @@ while cont < 3:
     else:
         print("Número errado, tente novamente, você consegue!")
         cont += 1
-if cont == 3:
+else:
     print("Que pena, suas chances acabaram e você perdeu! O número era o 7.")
